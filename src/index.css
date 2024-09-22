@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.alex-brush-regular {
+  font-family: "Alex Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.alegreya-sc-regular {
+  font-family: "Alegreya SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.alegreya-sc-medium {
+  font-family: "Alegreya SC", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.alegreya-sc-bold {
+  font-family: "Alegreya SC", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.alegreya-sc-extrabold {
+  font-family: "Alegreya SC", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.alegreya-sc-black {
+  font-family: "Alegreya SC", serif;
+  font-weight: 900;
+  font-style: normal; 
+}
+
+.alegreya-sc-regular-italic {
+  font-family: "Alegreya SC", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.alegreya-sc-medium-italic {
+  font-family: "Alegreya SC", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.alegreya-sc-bold-italic {
+  font-family: "Alegreya SC", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.alegreya-sc-extrabold-italic {
+  font-family: "Alegreya SC", serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.alegreya-sc-black-italic {
+  font-family: "Alegreya SC", serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* you can change the 100 */
+.montserrat-font {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* you can change the 400 */
+.alegreya-400 {
+  font-family: "Alegreya", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+}
+
+
+#venue_bg{
+  clip-path: circle(103% at 0 54%);
+  width: 120%;
+  height: 90%;
+}
